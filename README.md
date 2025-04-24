@@ -18,3 +18,6 @@ Neon Console, OpenAI API, Drizzle
 <br>
 
 <img width="1320" alt="Screenshot 2025-04-24 at 6 08 41 PM" src="https://github.com/user-attachments/assets/3491726d-e232-426a-a786-be8b6b71d7b5" />
+<br>
+<img width="1320" alt="Screenshot 2025-04-24 at 6 55 51 PM" src="https://github.com/user-attachments/assets/c07d46fe-d9f6-4890-9267-9d11668b7843" />
+
